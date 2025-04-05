@@ -1,3 +1,2 @@
 # glungus-the-website
-Thing I made to learn web development :)
-inspired by the silly glungus cat meme.
+Website I made to learn web development and git inspired by the silly glungus cat meme.
